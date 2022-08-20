@@ -1,1 +1,1 @@
-# hapi-restapi-notes
+# hapi-restapi-bookshelf
